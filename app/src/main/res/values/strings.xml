@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasPraktikum7</string>
+    <string name="game_over">Game Selesai</string>
+    <string name="try_again">Coba Lagi</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+</resources>
